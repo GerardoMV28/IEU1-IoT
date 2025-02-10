@@ -4,7 +4,7 @@
 
 | Nombre | Gerardo Manzano Villafaña | Celeste Estefanía Ramírez Matehuala |
 |--------------|--------------|--------------|
-| Numero de control |  | 1223100435 |
+| Numero de control | 1222100474 | 1223100435 |
 | Grupo | GDS0652 | GDS0652 |
 
 
